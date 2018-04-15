@@ -1,0 +1,19 @@
+{
+  "name": "unabalanced-string",
+  "version": "1.0.0",
+  "description": "Find unbalanced string index",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aziz-ka/unabalanced-string-index"
+  },
+  "author": "Aziz Hasanov",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
